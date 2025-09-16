@@ -1,6 +1,5 @@
 # Mogginx - Modernized-ish version of womginx with better site support
 > Note: Still will not compete on the level of site support of Ultraviolet/Scramjet, its advantage is due to it being mostly serverside (can work completely serverside actually, just with less site support) it is very fast (nginx is fast) and requires very little client side performance to run smoothly (old chromebooks wont explode). Its also far less secure so do not use this (unless your self hosting) expecting your data to be safe, also no encoding (YET) so its pretty easy for external programs to look into the requests/urls.
-<img width="333" height="333" alt="mogginx" src="https://github.com/user-attachments/assets/d7071b71-9a39-4633-a1eb-b9be1f91ca02" />
 <img width="1280" height="720" alt="mogginxmogging" src="https://github.com/user-attachments/assets/63484911-458e-4584-9304-02f302208059" />
 
 > Fastest proxy using only nginx as the backend server
@@ -130,3 +129,4 @@ Wombat uses AGPL, and under the terms of that license, this project, therefore, 
 
 - Front page design by [voept](https://github.com/voept)
 - Logo design by [kinglalu](https://github.com/kinglalu)
+<img width="333" height="333" alt="mogginx" src="https://github.com/user-attachments/assets/d7071b71-9a39-4633-a1eb-b9be1f91ca02" />
